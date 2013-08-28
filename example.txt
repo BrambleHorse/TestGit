@@ -1,0 +1,31 @@
+﻿Что будет напечатано на экран следующим кодом:
+
+
+class Main {
+    public static void main(String[] args) {
+        int i = 0;
+        System.out.println(++i == i++);
+        System.out.println(i++ == i++);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+Что выведет следующий код?
+
+
+
+int i = 0;
+i++;
+System.out.print(i);
+i = i++;
+System.out.println(i);
